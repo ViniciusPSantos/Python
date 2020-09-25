@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58bc1fa3-8af7-4af4-b4e8-f630ba70abb6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dEi1uqoNADhZFm4PMtIVxBP6Q2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Pilha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Estrutura de Dados - Alura" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pilha.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Pilha" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58bc1fa3-8af7-4af4-b4e8-f630ba70abb6" name="Default Changelist" comment="" />
+      <created>1591996441817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591996441817</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591996546746">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="734" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1591996546746" />
+    <state width="2539" height="282" key="GridCell.Tab.0.bottom" timestamp="1591999927615">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2539" height="282" key="GridCell.Tab.0.bottom/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1591999927615" />
+    <state width="2539" height="282" key="GridCell.Tab.0.center" timestamp="1591999927615">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2539" height="282" key="GridCell.Tab.0.center/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1591999927615" />
+    <state width="2539" height="282" key="GridCell.Tab.0.left" timestamp="1591999927615">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2539" height="282" key="GridCell.Tab.0.left/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1591999927615" />
+    <state width="2539" height="282" key="GridCell.Tab.0.right" timestamp="1591999927615">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2539" height="282" key="GridCell.Tab.0.right/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1591999927615" />
+    <state x="781" y="165" key="SettingsEditor" timestamp="1591998061958">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="781" y="165" key="SettingsEditor/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1591998061958" />
+  </component>
+</project>
